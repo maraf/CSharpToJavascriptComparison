@@ -1,6 +1,10 @@
 # A repository comparing SharpKit with Bridge.NET (and possibly others)
 
-You can find here some ways how to share code between server (.NET framework) and client (a javascript generated from C#).
+You can find here some ways how to share code between server (.NET framework) and client (a javascript generated from C#). All versions always contains three projects.
+
+ - ***Server*** containing a typical server code like web services.
+ - ***Client*** containing only client side logic for processing data received through web service and rendering UI.
+ - ***Shared*** containing classes shared between Client and Server. All models for communication and possibly a shared logic.
 
 ## SharpKit (plain)
 
