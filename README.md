@@ -8,7 +8,7 @@ A standard library with enabled SharpKit and configured to export all code to a 
 
 ## SharpKit (UnobtrusiveFeatures)
 
-A SharpKit enabled library containing [UnobtrusiveFeatures] plugin for no-reference exporting library to javascript. 
+A SharpKit enabled library containing [UnobtrusiveFeatures](https://github.com/maraf/SharpKit.UnobtrusiveFeatures) plugin for no-reference exporting library to javascript. 
 
 ## Bridge.NET (separated csproj)
 
