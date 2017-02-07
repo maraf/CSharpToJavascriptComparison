@@ -1,4 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <UnobtrusiveFeatures xmlns="http://schemas.neptuo.com/xsd/sharpkit-unobtrusivefeatures.xsd">
-    <Export Filename="{AssemblyName}.js" FilenameFormat="~/{0}" />
+    <Export FilenameFormat="~/{0}" Filename="{AssemblyName}.js" />
 </UnobtrusiveFeatures>
