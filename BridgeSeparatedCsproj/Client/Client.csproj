@@ -42,6 +42,10 @@
       <HintPath>..\packages\Bridge.Html5.15.7.0\lib\net40\Bridge.Html5.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="Bridge.jQuery2, Version=2.9.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bridge.jQuery.2.9.3\lib\net40\Bridge.jQuery2.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ProductClient.cs" />
